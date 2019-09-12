@@ -132,7 +132,7 @@ public class ProblemSet0 {
          * SOLVED
          */
 
-        System.out.println("You're almost done with your first problem set...");
+        System.out.println("\nYou're almost done with your first problem set...");
 
         /*
          * Exercise 10.
