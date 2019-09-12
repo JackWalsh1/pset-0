@@ -33,6 +33,9 @@ public class ProblemSet0 {
          * Exercise 2.
          *
          * Print APCS in block letters to the console.
+         *
+         *SOLVED
+         *
          */
 
         System.out.println("\n   ##    ######  ######## ########");
@@ -47,67 +50,86 @@ public class ProblemSet0 {
          * Exercise 3.
          *
          * Print a quoted message to the console.
+         *
+         * SOLVED
          */
 
-        //System.out.println(""The answer's quite simple", the professor said. "Just think outside the box!"");
+        System.out.println("\n\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
 
         /*
          * Exercise 4.
          *
          * Print a face to the console.
+         *
+         *SOLVED
+         *
          */
 
-        /*System.out.println("   \\\\\ ");
-        *System.out.println("  +"""""+");
-        *System.out.println("(|  0 0  |)");
-        *System.out.println(" |   ^   |");
-        *System.out.println(" |  '-'  |")
-        *System.out.println("  +-----+\n");
-        */
+        System.out.println("\n   \\\\\\\\\\");
+        System.out.println("  +\"\"\"\"\"+");
+        System.out.println("(|  0 0  |)");
+        System.out.println(" |   ^   |");
+        System.out.println(" |  '-'  |");
+        System.out.println("  +-----+");
+
 
         /*
          * Exercise 5.
          *
          * Print a to-do list to the console.
+         *
+         *SOLVED
+         *
          */
 
-        System.out.println("Here's today's to-do list:");
+        System.out.println("\n Here's today's to-do list:");
         System.out.println("\t- Go food shopping");
-        System.out.println("\t- Mow the lawn\n");
+        System.out.println("\t- Mow the lawn");
 
         /*
          * Exercise 6.
          *
          * Print a square of text to the console.
+         *
+         * SOLVED
+         *
          */
 
-        System.out.println("H E L L O\nEA\nLP\nLC\nO A P C");
+        System.out.println("\nH E L L O\nE\tA\nL\tP\nL\tC\nO A P C S");
 
         /*
          * Exercise 7.
          *
          * Print a countdown to the console.
+         *
+         * SOLVED
+         *
          */
 
-        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!");
 
         /*
          * Exercise 8.
          *
          * Print three diamonds to the console.
+         *
+         * SOLVED
+         *
          */
 
-        //System.out.println(     /\     /\");
-        //System.out.printn(" /  \ /  \   /  \");
-        //System.out.println("/    \   \ /    \");
-        //System.out.printn("\    / \  \    /");
-        //System.out.println(" \  /   \  /   \  /");
-        //System.out.printn("  \/     \/   /");
+        System.out.println("\n  /\\     /\\     /\\");
+        System.out.println(" /  \\   /  \\   /  \\");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
+        System.out.println(" \\  /   \\  /   \\  /");
+        System.out.println("  \\/     \\/     \\/");
 
         /*
          * Exercise 9.
          *
          * Print an encouraging message to the console.
+         *
+         * SOLVED
          */
 
         System.out.println("You're almost done with your first problem set...");
